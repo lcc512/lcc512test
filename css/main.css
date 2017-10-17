@@ -1,6 +1,6 @@
 body{
 
-background-color: #ebedef;
+
 
 }
 .fr{
@@ -23,6 +23,24 @@ nav.title{
 	font-size: 30px;
 	line-height: 30px;
 }
-.kaochang table{
-	/*border: 1px solid #1f497d;*/
+.d-items{
+	margin:20px;
+	width: 350px;
+	height: 600px;
+	background-color: #e7e1d9;
+	border-radius: 4%;
+
+}
+.d-items ul{
+	margin: 10px;
+}
+.d-items ul li{
+	margin: 5px;
+}
+.d-content {
+	margin:20px;
+	width: 600px;
+	height: 600px;
+	background-color: #e7e1d9;
+	border-radius: 4%;
 }
