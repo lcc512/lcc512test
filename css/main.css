@@ -9,10 +9,13 @@ body{
 .fl{
 	float: left;
 }
+
 nav.title{
+  margin-top: 10px;
   background-color: #1f497d;
   border-bottom: 1px solid #e2e2e2;
   height: 50px;
+  border-radius: 10px;
 }
 .title a, .title span, .title strong{
 	line-height: 50px;
@@ -24,23 +27,23 @@ nav.title{
 	line-height: 30px;
 }
 .d-items{
-	margin:20px;
+	margin-top:30px;
 	width: 350px;
 	height: 600px;
 	background-color: #e7e1d9;
-	border-radius: 4%;
+	border-radius: 10px;
 
 }
 .d-items ul{
 	margin: 10px;
 }
 .d-items ul li{
-	margin: 5px;
+	margin-top: 10px;
 }
 .d-content {
-	margin:20px;
-	width: 600px;
+	margin-top:30px;
+	width: 650px;
 	height: 600px;
 	background-color: #e7e1d9;
-	border-radius: 4%;
+	border-radius: 10px;
 }
