@@ -27,3 +27,7 @@
 	background-color: gold;
 	border-radius: 10px;
 }
+#myCarousel{
+	width: 500px;
+	margin:10px auto 0;
+}
