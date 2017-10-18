@@ -1,22 +1,4 @@
-body{
 
-
-
-}
-.fr{
-	float: right;
-}
-.fl{
-	float: left;
-}
-
-nav.title{
-  margin-top: 10px;
-  background-color: #1f497d;
-  border-bottom: 1px solid #e2e2e2;
-  height: 50px;
-  border-radius: 10px;
-}
 .title a, .title span, .title strong{
 	line-height: 50px;
 	color: #fff;
@@ -28,9 +10,8 @@ nav.title{
 }
 .d-items{
 	margin-top:30px;
-	width: 350px;
 	height: 600px;
-	background-color: #e7e1d9;
+	background-color: gold;
 	border-radius: 10px;
 
 }
@@ -42,8 +23,7 @@ nav.title{
 }
 .d-content {
 	margin-top:30px;
-	width: 650px;
 	height: 600px;
-	background-color: #e7e1d9;
+	background-color: gold;
 	border-radius: 10px;
 }
